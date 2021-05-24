@@ -34,9 +34,3 @@ client.on('message', (channel, tags, message, self) => {
 	
 });
 	
-
-//https://static-cdn.jtvnw.net/emoticons/v1/nom_de_lemote/1.0
-
-
-
-//https://static-cdn.jtvnw.net/emoticons/v1/58765/1.0
